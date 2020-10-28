@@ -1,0 +1,2 @@
+#!/bin/bash
+java -cp ArangoCopy-0.0.1-jar-with-dependencies.jar com.arangodb.copy.ArangoCopy "$@"
